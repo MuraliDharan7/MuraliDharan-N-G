@@ -1,8 +1,11 @@
-# MuraliDharan N G
+<h1 align="center"> Hi there, I'm <a href="https://github.com/MuraliDharan7">MuraliDharan</a> </h1>
 
-Welcome to my GitHub portfolio! This page showcases my contributions, achievements, and the technologies I work with.
+<p align="center">
+  <a href="https://www.linkedin.com/in/muralidharan007)">LinkedIn</a> -
+  <a href="ngmurali007@gmail.com">Contact me</a> -
+</p> 
 
----
+-----------------------------------------------------------
 
 ## 🌟 About Me
 
@@ -48,10 +51,6 @@ Welcome to my GitHub portfolio! This page showcases my contributions, achievemen
 
 - **Email:** ngmurali007@gmail.com
 - **LinkedIn:** [MuraliDharan](https://www.linkedin.com/in/muralidharan007/)
-
-## 🎯 Profile Views
-
-![Visitor Count](https://komarev.com/ghpvc/?username=MuraliDharan7&color=blue&style=flat-square)
 
 Feel free to connect with me!
 
