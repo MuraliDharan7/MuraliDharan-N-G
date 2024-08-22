@@ -45,7 +45,7 @@
 
 ### 🔥 Top Languages Used
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuraliDharan7&layout=compact&theme=radical&hide=html,css,c++)
+![MuraliDharan7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuraliDharan7&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ## 📫 Get in Touch
 
