@@ -26,11 +26,11 @@ GitHub Portfolio profile page which list the personal information about MuraliDh
 - **MERN Stack:** 10%
 ## Technologies I’ve Used
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide=html,css,c++)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuraliDharan7&layout=compact&hide=html,css,c++)
 
 - **JavaScript:** Core programming language for frontend and backend development.
 - **EJS:** Embedded JavaScript templating for server-side rendering.
 - **MERN Stack:** MongoDB, Express.js, React.js, Node.js.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide=html,css,c++)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuraliDharan7&layout=compact&hide=html,css,c++)
 
