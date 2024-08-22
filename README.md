@@ -44,14 +44,14 @@ Welcome to my GitHub portfolio! This page showcases my contributions, achievemen
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuraliDharan7&layout=compact&theme=radical&hide=html,css,c++)
 
----
-
----
-
 ## 📫 Get in Touch
 
 - **Email:** ngmurali007@gmail.com
-- **LinkedIn:** [[LinkedIn Profile](https://www.linkedin.com/in/muralidharan007/)]
+- **LinkedIn:** [MuraliDharan](https://www.linkedin.com/in/muralidharan007/)
+
+## 🎯 Profile Views
+
+![Visitor Count](https://komarev.com/ghpvc/?username=MuraliDharan7&color=blue&style=flat-square)
 
 Feel free to connect with me!
 
