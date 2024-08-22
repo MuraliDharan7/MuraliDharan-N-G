@@ -13,4 +13,5 @@ GitHub Portfolio profile page which list the personal information about MuraliDh
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="105px" height="105px" /></a>
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuraliDharan7&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuraliDharan7&layout=compact&hide=html,css,c++)
+
