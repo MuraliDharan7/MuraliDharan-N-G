@@ -1,0 +1,35 @@
+name: Generate Language Stats
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  language-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v2
+
+      - name: Install cloc
+        run: sudo apt-get install -y cloc
+
+      - name: Generate Language Stats by Commit
+        run: |
+          echo "# Top Languages by Commit" > language-stats.md
+          git log --pretty=format:"" --name-only | grep -E "\.(js|ejs|html|css|cpp)$" | sort | uniq -c | sort -nr >> language-stats.md
+
+      - name: Generate Language Stats by Lines of Code
+        run: |
+          echo "# Top Languages by Lines of Code" >> language-stats.md
+          cloc . --include-lang=JavaScript,EJS,HTML,CSS,C++ --md | tail -n +2 >> language-stats.md
+
+      - name: Commit and Push Language Stats
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Action"
+          git add language-stats.md
+          git commit -m "Updated Language Stats"
+          git push origin main
