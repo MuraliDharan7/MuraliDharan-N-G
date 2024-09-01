@@ -15,8 +15,6 @@
 - **Education:** B.Tech Information Technology
 - **Current Role:** Student
 
-> _"DO IT FOR YOU"_
-
 ---
 
 ## 🏆 Achievements & Contributions
